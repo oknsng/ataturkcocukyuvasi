@@ -1,0 +1,29 @@
+#first-block, #second-block, #third-block, #fourth-block {
+text-align:center;
+padding:3.5em 0;
+}
+#carousel {
+text-align:center;
+background:#e5e5e5;
+}
+#first-block {
+background:#fff;
+}
+#second-block {
+background:#e5e5e5;
+}
+#third-block {
+background:#fff;
+}
+#fourth-block {
+background:#e5e5e5;
+}
+footer {
+background:#fff;
+padding:3.5em 0;
+}
+@media screen and (max-width: 768px) {
+  .right {
+  float:none;
+  }
+}
